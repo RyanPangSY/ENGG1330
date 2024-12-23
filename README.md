@@ -2,7 +2,7 @@
 2023-24 Sem 1 ENGG1330 Group Project
 
 <!-- EXECUTE -->
-# Execute
+### Execute
 ```sh
   git clone https://github.com/RyanPangSY/ENGG1330
   python main.py
